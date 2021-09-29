@@ -14,7 +14,7 @@ img{
     height: 280px;
     width: 400px;
     transition: all 1s;
-    margin: 23px;
+  /*  margin: 23px;*/
     border-radius: 20px;
     flex-wrap: wrap;
 
