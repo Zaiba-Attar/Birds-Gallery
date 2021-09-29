@@ -22,6 +22,7 @@ img{
 img:hover{
     transform: scale(1.1);
 }
+
 h1{
     padding: 20px;
     text-align: center;
@@ -33,8 +34,11 @@ h1{
 span{
     color: red;
 }
-.heading{
-margin-bottom: 10px;
+#heading{
+   margin-bottom: 10px;
+}
+#section{
+	margin:15px;
 }
 .foo{
     font-size: 20px;
