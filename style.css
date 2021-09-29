@@ -1,4 +1,4 @@
-*{
+/**{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -43,8 +43,8 @@ span{
     background-color:  rgb(98, 148, 240);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 25px;
-}
-/** {
+}*/
+* {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -118,4 +118,4 @@ img:hover {
 	background-color: #0E5C00;
 	padding: 4px;
 	text-shadow: 2px 4px 3px #000000;
-}*/
+}
